@@ -9,10 +9,17 @@ public class Poliza
     public int Id { get; set; }
     public int valorAsegurado { get; set; }
     public string? franquicia { get; set; }
+    public tipoCobertura tipoC;
+    public DateTime fechaInicio;
+    public DateTime fechaFin;
+
     public enum tipoCobertura
     {
         ResponsabilidadCivil, TodoRiesgo
     }
-    public DateTime fechaInicio;
-    public DateTime fechaFin;
+
+    public Poliza()
+    {
+        this.Id++;
+    }
 }

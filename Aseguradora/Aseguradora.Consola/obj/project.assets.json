@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Aseguradora.Aplicacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Aseguradora.Aplicacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aseguradora.Aplicacion.dll": {}
+        }
+      },
+      "Aseguradora.Repositorios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Aseguradora.Aplicacion": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Aseguradora.Repositorios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aseguradora.Repositorios.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Aseguradora.Aplicacion/1.0.0": {
+      "type": "project",
+      "path": "../Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj",
+      "msbuildProject": "../Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj"
+    },
+    "Aseguradora.Repositorios/1.0.0": {
+      "type": "project",
+      "path": "../Aseguradora.Repositorios/Aseguradora.Repositorios.csproj",
+      "msbuildProject": "../Aseguradora.Repositorios/Aseguradora.Repositorios.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Aseguradora.Aplicacion >= 1.0.0",
+      "Aseguradora.Repositorios >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/camila/.nuget/packages/": {}
@@ -13,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Consola/Aseguradora.Consola.csproj",
+      "projectUniqueName": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Consola/Aseguradora.Consola.csproj",
       "projectName": "Aseguradora.Consola",
-      "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Consola/Aseguradora.Consola.csproj",
+      "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Consola/Aseguradora.Consola.csproj",
       "packagesPath": "/home/camila/.nuget/packages/",
-      "outputPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Consola/obj/",
+      "outputPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Consola/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/camila/.nuget/NuGet/NuGet.Config"
@@ -31,7 +69,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj": {
+              "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj"
+            },
+            "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/Aseguradora.Repositorios.csproj": {
+              "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/Aseguradora.Repositorios.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

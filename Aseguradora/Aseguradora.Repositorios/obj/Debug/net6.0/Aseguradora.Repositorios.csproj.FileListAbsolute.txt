@@ -1,0 +1,15 @@
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/Aseguradora.Repositorios.deps.json
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/Aseguradora.Repositorios.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/ref/Aseguradora.Repositorios.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/Aseguradora.Repositorios.pdb
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/Aseguradora.Aplicacion.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/bin/Debug/net6.0/Aseguradora.Aplicacion.pdb
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.csproj.AssemblyReference.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.AssemblyInfoInputs.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.AssemblyInfo.cs
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.csproj.CoreCompileInputs.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.csproj.CopyComplete
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/ref/Aseguradora.Repositorios.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Repositorios/obj/Debug/net6.0/Aseguradora.Repositorios.pdb

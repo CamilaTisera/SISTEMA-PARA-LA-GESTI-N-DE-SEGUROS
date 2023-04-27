@@ -1,0 +1,17 @@
+/home/camila/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.csproj.AssemblyReference.cache
+/home/camila/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/camila/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.AssemblyInfoInputs.cache
+/home/camila/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.AssemblyInfo.cs
+/home/camila/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.csproj.CoreCompileInputs.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/bin/Debug/net6.0/Aseguradora.Aplicacion.deps.json
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/bin/Debug/net6.0/Aseguradora.Aplicacion.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/bin/Debug/net6.0/ref/Aseguradora.Aplicacion.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/bin/Debug/net6.0/Aseguradora.Aplicacion.pdb
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.csproj.AssemblyReference.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.AssemblyInfoInputs.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.AssemblyInfo.cs
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.csproj.CoreCompileInputs.cache
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/ref/Aseguradora.Aplicacion.dll
+/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/Debug/net6.0/Aseguradora.Aplicacion.pdb

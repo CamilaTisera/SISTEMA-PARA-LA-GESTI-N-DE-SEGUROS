@@ -1,5 +1,5 @@
 namespace Aseguradora.Aplicacion; //Consultar
-abstract class Persona
+public abstract class Persona
 {
     public int dni { get; set; }
     public string? apellido { get; set; }
@@ -12,5 +12,8 @@ abstract class Persona
         this.apellido = apellido;
         this.nombre = nombre;
         this.telefono = telefono;
+    }
+        public Persona()
+    {
     }
 }

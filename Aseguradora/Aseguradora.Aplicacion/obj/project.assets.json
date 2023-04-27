@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj",
+      "projectUniqueName": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj",
       "projectName": "Aseguradora.Aplicacion",
-      "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj",
+      "projectPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/Aseguradora.Aplicacion.csproj",
       "packagesPath": "/home/camila/.nuget/packages/",
-      "outputPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/",
+      "outputPath": "/home/camila/SISTEMA PARA LA GESTIÓN DE SEGUROS/SISTEMA-PARA-LA-GESTI-N-DE-SEGUROS/Aseguradora/Aseguradora.Aplicacion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/camila/.nuget/NuGet/NuGet.Config"
